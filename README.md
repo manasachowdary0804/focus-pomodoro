@@ -24,7 +24,7 @@ A minimal, beautiful Pomodoro timer built with pure HTML, CSS, and JavaScript. N
 
 ## 🚀 Live Demo
 
-👉 **[Try it live on GitHub Pages](#)** *(update this link after deploying)*
+👉 **[Try it live on GitHub Pages](https://manasachowdary0804.github.io/focus-pomodoro/)**
 
 ---
 
