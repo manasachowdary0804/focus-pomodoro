@@ -39,7 +39,7 @@ A minimal, beautiful Pomodoro timer built with pure HTML, CSS, and JavaScript. N
 ### Option 1 — Just open it
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/focus-pomodoro.git
+git clone https://github.com/manasachowdary0804/focus-pomodoro.git
 
 # Open in your browser
 open focus-pomodoro/index.html
@@ -108,7 +108,7 @@ Found a bug or have an idea? Feel free to open an issue or submit a PR.
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
+MIT © [Manasa](https://github.com/manasachowdary0804)
 
 ---
 
